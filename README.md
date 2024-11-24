@@ -83,13 +83,13 @@ Contributions are welcome! If you have suggestions for improvements or find bugs
 4. Push to your branch.
 5. Open a pull request.
 
-Make sure to review our [LICENSE](LICENSE) before contributing.
+Make sure to review our [LICENSE](https://github.com/Purohit1999/Phonebook-Application/blob/main/LICENSE) before contributing.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/Purohit1999/Phonebook-Application/blob/main/LICENSE) file for details.
 
 ---
 
